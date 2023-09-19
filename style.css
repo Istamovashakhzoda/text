@@ -1,0 +1,19 @@
+body {
+    height: 100vh; /* Use full viewport height */
+    width: 100vw;
+    margin: 0 auto;
+    display: flex;
+    align-items: start;
+    justify-content: center; /* To center horizontally */
+    background-color: hsla(258, 55%, 86%, 0.2);
+  }
+  
+  h1 {
+    font-size: 10rem;
+    text-transform: uppercase;
+  }
+  
+  #loopingText span {
+    margin-right: 5px; /* Adjust as needed to get desired spacing */
+  }
+  
